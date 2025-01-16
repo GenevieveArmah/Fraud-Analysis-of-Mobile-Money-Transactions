@@ -1,6 +1,8 @@
 # Fraud-Analysis-of-Mobile-Money-Transactions
 This is a Power BI dashboard focused on fraud analysis of mobile money transactions, providing a comprehensive view of transaction patterns, fraud detection metrics, and customer behavior analysis. The dashboard visualizes key performance indicators (KPIs) and transaction metrics through charts and visualizations.
 
+DASHBOARD COMPONENTS:
+
 Key Performance Indicators (KPIs):
 
 
