@@ -3,6 +3,8 @@ This is a Power BI dashboard focused on fraud analysis of mobile money transacti
 
 The goal is to help stakeholders such as financial analysts, compliance officers, and fraud prevention teams with actionable insights for mitigating fraud risks and improving transaction security.
 
+Data Source: Kaggle 
+
 DASHBOARD COMPONENTS:
 
 Key Performance Indicators (KPIs):
